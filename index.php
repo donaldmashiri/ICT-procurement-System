@@ -53,7 +53,7 @@
 
             <img src="img/logo.png" width="150" height="60">
             <h2 style="margin-top: 0px; color:white;">Mutare Polytechnic</h2>
-            <p style="margin-top: 0px; color:white;">Ministry of Higher and Tertiary Education Science and Technology</p>
+            <p style="margin-top: 0px; color:white;">Arua City contrary registry</p>
         </div>
 
 
@@ -63,7 +63,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-left section-heading probootstrap-animate">
-                        <h1 class="mb0">ICT Internal Requisition and Procurement System</h1>
+                        <h1 class="mb0">Online payment requisition tracking system</h1>
                     </div>
                 </div>
             </div>
@@ -80,10 +80,10 @@
                                 <div class="probootstrap-sidebar-inner probootstrap-overlap probootstrap-animate">
                                     <h3>Stakeholders</h3>
                                     <ul class="probootstrap-side-menu">
-                                        <li><a href="index.php?change=<?php echo "itDpt" ?>">IT department</a></li>
-                                        <li><a href="index.php?change=<?php echo "itMng" ?>">IT Manager</a></li>
-                                        <li><a href="index.php?change=<?php echo "proOff" ?>">Procurement Officer</a></li>
-                                        <li><a href="index.php?change=<?php echo "sup" ?>">Supplier</a></li>
+                                        <li><a href="index.php?change=<?php echo "itDpt" ?>">Requisition form </a></li>
+                                        <li><a href="index.php?change=<?php echo "itMng" ?>">internal audit</a></li>
+                                        <li><a href="index.php?change=<?php echo "proOff" ?>">Approval</a></li>
+                                        <li><a href="index.php?change=<?php echo "sup" ?>">Finance Officer</a></li>
                                     </ul>
                                 </div>
                             </div>
